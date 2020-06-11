@@ -1,0 +1,10 @@
+###################
+# Einladungsliste
+###################
+--- Freunde ---
+Dennis Deutsch
+Nils Armbruster
+Hamit Kilic
+
+--- andere ---
+Caterina Mandel
