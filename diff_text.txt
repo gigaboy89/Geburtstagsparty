@@ -1,0 +1,1 @@
+thi is first usage of echo  command
